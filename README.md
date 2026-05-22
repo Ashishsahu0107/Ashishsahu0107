@@ -9,4 +9,32 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-        
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Ashishsahu2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ashishsahu2005&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+# 📈 Contribution Graph
+
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashishsahu2005&theme=tokyo-night)](https://github.com/Ashishsahu2005)
+
+---
+
+# 🚀 Current Focus
+
+- Building Full Stack MERN Projects  
+- Learning Backend Architecture  
+- Improving DSA & Problem Solving  
+- Creating Professional Developer Portfolio  
+
+---
+
+## ✨ Quote
+
+> "Code. Learn. Build. Repeat." 🚀
