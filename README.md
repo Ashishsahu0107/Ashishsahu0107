@@ -12,17 +12,17 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Ashishsahu2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Ashishsahu0107&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashishsahu2005&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ashishsahu0107&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu0107&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 # 📈 Contribution Graph
 
-[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashishsahu2005&theme=tokyo-night)](https://github.com/Ashishsahu2005)
+[![Ashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashishsahu0107&theme=tokyo-night)](https://github.com/Ashishsahu0107)
 
 ---
 
