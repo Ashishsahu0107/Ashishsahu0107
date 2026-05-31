@@ -9,7 +9,7 @@
 
 # 🔧 Skills
 
-💡 Languages: Java, JavaScript, HTML, CSS, Python
+💡 Languages: Java, JavaScript, HTML, CSS, Python 
 ⚙️ Tools: Git, GitHub, VS Code  
 🌐 Technologies: React, Tailwind CSS  
 
