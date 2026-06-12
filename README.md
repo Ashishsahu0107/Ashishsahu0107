@@ -27,14 +27,17 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ashishsahu0107&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashishsahu0107&theme=tokyonight&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Ashishsahu0107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu0107&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ashishsahu0107&theme=tokyonight&hide_border=true" height="180"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu0107&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 ---
 
 # 📈 Contribution Graph
