@@ -72,14 +72,17 @@ A responsive personal portfolio showcasing projects, skills, and professional ac
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ashishsahu0107&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashishsahu0107&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashishsahu0107&theme=tokyonight&hide_border=false)
+## 🔥 Streak Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu0107&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashishsahu0107&theme=tokyonight&hide_border=false)
 
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu0107&theme=tokyonight&hide_border=false&layout=compact)
 ---
 
 # 📈 Contribution Graph
