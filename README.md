@@ -99,7 +99,6 @@ A responsive personal portfolio showcasing projects, skills, and professional ac
 - Creating Professional Developer Portfolio  
 
 ---
-
 ## ✨ Quote
 
 > "Code. Learn. Build. Repeat." 🚀
