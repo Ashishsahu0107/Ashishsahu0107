@@ -83,70 +83,10 @@ I'm a passionate Computer Science student focused on building modern, scalable w
 
 ---
 
-# 📌 Featured Projects
-
-## 🎓 Learning Management System (LMS)
-
-A modern full-stack Learning Management System designed for students and administrators.
-
-### Features
-
-- JWT Authentication
-- Role-Based Access Control
-- Student Dashboard
-- Admin Dashboard
-- Course Management
-- Quiz Management
-- Assignment System
-- Progress Tracking
-- Responsive UI
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
----
-
-## 🍽️ Cravings Food Delivery Platform
-
-A complete food ordering and delivery platform with multiple user roles.
-
-### Modules
-
-- Customer
-- Restaurant
-- Delivery Rider
-- Admin
-- Authentication
-- Order Management
-- Restaurant Management
-
-**Tech Stack**
-
-`React` `Node.js` `Express.js` `MongoDB`
-
----
-
-## 💼 Portfolio Website
-
-A fully responsive portfolio website showcasing projects, skills, achievements, and contact information.
-
-**Tech Stack**
-
-`React` `Tailwind CSS`
-
----
-
 # 📈 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashishsahu0107&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=Ashishsahu0107&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu0107&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
@@ -156,16 +96,6 @@ A fully responsive portfolio website showcasing projects, skills, achievements, 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ashishsahu0107&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishsahu0107&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
