@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Ashish Sahu
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Computer+Science+Student;Full+Stack+Web+Developer;Backend+Developer;Always+Learning+New+Technologies" />
+
 ### MERN Stack Developer | B.Tech Computer Science Student | Open Source Enthusiast
 
 <p>
