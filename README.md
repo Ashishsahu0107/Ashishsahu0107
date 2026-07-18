@@ -91,16 +91,6 @@ I'm a passionate Computer Science student focused on building modern, scalable w
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashishsahu0107&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
