@@ -89,16 +89,23 @@ I'm a passionate Computer Science student focused on building modern, scalable w
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashishsahu0107&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashishsahu0107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu0107&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Ashishsahu0107&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu0107&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishsahu0107&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ashishsahu0107&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
 ---
 
 # 🌐 Connect With Me
