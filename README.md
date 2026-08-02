@@ -85,15 +85,14 @@ I'm a passionate Computer Science student focused on building modern, scalable w
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashishsahu0107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Ashishsahu0107\&hide\_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu0107&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
 ---
 
 # 🌐 Connect With Me
