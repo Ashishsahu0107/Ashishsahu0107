@@ -85,16 +85,6 @@ I'm a passionate Computer Science student focused on building modern, scalable w
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=Ashishsahu0107\&hide\_border=true"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
