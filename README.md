@@ -23,31 +23,6 @@ I love turning ideas into real-world projects, solving programming problems, exp
 
 ---
 
-## 🎯 Current Focus
-
-```text
-Full Stack Development     ████████████████████
-Backend Development        ██████████████████░░
-System Design              ███████████████░░░░░
-DSA with Java              ████████████████░░░░
-DevOps & Deployment        ████████████░░░░░░░░
-Open Source                ██████████░░░░░░░░░░
-```
-
-Currently focusing on:
-
-* MERN Stack Development
-* Node.js & Express.js
-* REST API Development
-* MongoDB Database Design
-* Authentication & Authorization
-* Backend Architecture
-* System Design Fundamentals
-* Deployment & DevOps Basics
-* Data Structures & Algorithms
-
----
-
 # 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -99,13 +74,6 @@ Currently focusing on:
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishsahu0107&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 # 🚀 Featured Projects
 
