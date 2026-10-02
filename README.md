@@ -1,87 +1,148 @@
-<div align="center">
+# Hi, I'm Ashish Sahu 👋
 
-# 👋 Hi, I'm Ashish Sahu
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Computer+Science+Student;Full+Stack+Web+Developer;Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Computer+Science+Student;Full+Stack+Web+Developer;Backend+Developer;Always+Learning+New+Technologies" />
+### 💻 MERN Stack Developer | B.Tech CSE Student | Full Stack Web Developer
 
-### MERN Stack Developer | B.Tech Computer Science Student | Open Source Enthusiast
+I'm a passionate **Computer Science student and MERN Stack Developer** who enjoys building modern, scalable, and user-focused web applications.
 
-<p>
-I'm a passionate Computer Science student focused on building modern, scalable web applications using the MERN Stack. I enjoy solving real-world problems, learning new technologies, and continuously improving my development skills.
-</p>
-
-<p>
-<a href="https://github.com/Ashishsahu0107">
-<img src="https://img.shields.io/github/followers/Ashishsahu0107?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Ashishsahu0107">
-<img src="https://img.shields.io/github/stars/Ashishsahu0107?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Ashishsahu0107&style=for-the-badge&color=blue" alt="Profile Views"/>
-
-</p>
-
-</div>
+I love turning ideas into real-world projects, solving programming problems, exploring backend technologies, and continuously improving my development skills.
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering Student
-- 💻 MERN Stack Developer
-- 🌱 Currently learning **Backend Architecture, System Design & Advanced MERN**
-- 🚀 Passionate about Full Stack Web Development
-- 📚 Improving Data Structures & Algorithms
-- 🤝 Open to Internship & Collaboration Opportunities
-- ⚡ Love building real-world web applications
-
----
-
-# 🚀 Current Focus
-
-- Full Stack MERN Development
-- Backend Development with Node.js & Express.js
-- REST API Development
-- MongoDB Database Design
-- Authentication & Authorization
-- Deployment & DevOps Basics
-- DSA using Java
+* 🎓 B.Tech Computer Science & Engineering Student
+* 💻 MERN Stack Developer
+* 🌱 Currently learning **Backend Architecture, System Design & Advanced MERN**
+* 🚀 Passionate about **Full Stack Web Development**
+* 📚 Practicing **Data Structures & Algorithms with Java**
+* 🔐 Interested in **Authentication, APIs & Backend Systems**
+* 🤝 Open to **Internships, Collaborations & Open Source**
+* ⚡ Love building **real-world applications**
 
 ---
 
-# 🛠 Tech Stack
+## 🎯 Current Focus
 
-## Languages
+```text
+Full Stack Development     ████████████████████
+Backend Development        ██████████████████░░
+System Design              ███████████████░░░░░
+DSA with Java              ████████████████░░░░
+DevOps & Deployment        ████████████░░░░░░░░
+Open Source                ██████████░░░░░░░░░░
+```
+
+Currently focusing on:
+
+* MERN Stack Development
+* Node.js & Express.js
+* REST API Development
+* MongoDB Database Design
+* Authentication & Authorization
+* Backend Architecture
+* System Design Fundamentals
+* Deployment & DevOps Basics
+* Data Structures & Algorithms
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css"/>
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
 </p>
 
-## Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
-## Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## Database
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-## Tools
+### 🔧 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashishsahu0107&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu0107&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ashishsahu0107&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashishsahu0107&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎓 Learning Management System
+
+A full-stack **MERN-based Learning Management System** designed for students, teachers and administrators.
+
+**Key Features:**
+
+* 🔐 JWT Authentication
+* 👥 Role-Based Access Control
+* 📚 Course Management
+* 📝 Assignments
+* 🧠 Quiz System
+* 📊 Student Analytics
+* 📅 Attendance Management
+* 🏆 Certificates
+* 📈 Progress Tracking
+
+**Tech:** React.js • Tailwind CSS • Node.js • Express.js • MongoDB
+
+---
+
+### 💬 Real-Time Chat Application
+
+A modern real-time communication platform focused on scalable messaging and communication features.
+
+**Features:**
+
+* 💬 Real-time Messaging
+* 🟢 Online/Offline Status
+* 📞 Audio & Video Calling
+* 📎 Media Sharing
+* 🔔 Notifications
+* 🔐 Authentication
+
+**Tech:** React.js • Node.js • Express.js • MongoDB • Socket.IO • WebRTC
 
 ---
 
@@ -90,15 +151,19 @@ I'm a passionate Computer Science student focused on building modern, scalable w
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ashishsahu0107">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://x.com/Ashishsahu2005">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="mailto:ashishsahu01072005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Ashishsahu0107">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
@@ -107,16 +172,18 @@ I'm a passionate Computer Science student focused on building modern, scalable w
 
 # 💡 Developer Quote
 
-<div align="center">
+<p align="center">
 
 > **"Code. Learn. Build. Repeat." 🚀**
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=Ashishsahu0107&style=for-the-badge&color=blue" alt="Profile Views"/>
+
+</p>
