@@ -59,13 +59,6 @@ I love turning ideas into real-world projects, solving programming problems, exp
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishsahu0107&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishsahu0107&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
