@@ -57,8 +57,6 @@ I love turning ideas into real-world projects, solving programming problems, exp
 
 ---
 
-# 📊 GitHub Stats
-
 # 🔥 GitHub Streak
 
 <p align="center">
